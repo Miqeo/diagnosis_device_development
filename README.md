@@ -2,7 +2,8 @@
 
 ![](/images/Case_beta.png)
 
-[!IMPORTANT] This repository contains the work done to create a diagnostic medical device model for future production. Some details were omitted to preserve intellectual property.
+> [!IMPORTANT] 
+> This repository contains the work done to create a diagnostic medical device model for future production. Some details were omitted to preserve intellectual property.
 
 ### Preface
 This repository shows the journey from conceiving the idea for a handheld medical diagnostic device through the various stages of prototyping and development to the preparation for the full-scale production model.
